@@ -1,0 +1,9 @@
+Items-permitidos-para-quebra: # TODOS OS SUB-IDS (Item-data) DO ITEM TAMBEM SAO LIBERADOS PARA QUEBRAR!
+  - '1;0'
+  - '1;1'
+  - '35;3'
+  - '44;7'
+replace-block: 'BEDROCK' #Nunca manter o material de replace com o mesmo de blocos quebraveis!
+replace-block-delay: 15 #SEGUNDOS
+drop-base: 4
+multiplicador-de-drops: 1 # isso nao e fortuna! (isso afeta a fortuna e o drop-base)

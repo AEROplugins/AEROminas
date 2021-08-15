@@ -1,0 +1,6 @@
+name: AEROminas
+version: 1.0
+main: aero.minas.main.AEROminas
+
+commands:
+  criarmina:
